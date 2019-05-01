@@ -1,0 +1,5834 @@
+[
+  {
+    "id": 1,
+    "name": "House Algood",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A golden wreath, on a blue field with a gold border(Azure, a garland of laurel within a bordure or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 2,
+    "name": "House Allyrion of Godsgrace",
+    "places": [
+      "Godsgrace"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Gyronny Gules and Sable, a hand couped Or",
+    "words": "No Foe May Pass",
+    "founder": null,
+    "current_lord": 298,
+    "heir": 1922,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 3,
+    "name": "House Amber",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 4,
+    "name": "House Ambrose",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Or, semy of ants gules",
+    "words": "Never Resting",
+    "founder": null,
+    "current_lord": 141,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 5,
+    "name": "House Appleton of Appleton",
+    "places": [
+      "Appleton"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Or, an apple tree eradicated proper fructed gules, quartered with argent, a gatehouse cendr\u00e9e",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 6,
+    "name": "House Arryn of Gulltown",
+    "places": [
+      "Gulltown"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 7,
+    "name": "House Arryn of the Eyrie",
+    "places": [
+      "The Eyrie (summer)",
+      "Gates of the Moon (winter)"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A sky-blue falcon soaring against a white moon, on a sky-blue field(Bleu celeste, upon a plate a falcon volant of the field)",
+    "words": "As High as Honor",
+    "founder": 144,
+    "current_lord": 894,
+    "heir": 477,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 8,
+    "name": "House Ashford of Ashford",
+    "places": [
+      "Ashford"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Tenny, a sun in splendour beneath a chevron inverted argent",
+    "words": "Our Sun Shines Bright",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 9,
+    "name": "House Ashwood",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 10,
+    "name": "House Baelish of Harrenhal",
+    "places": [
+      "Harrenhal"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A field of silver mockingbirds, on a green field(Vert, sem\u00e9 of mockingbirds argent)",
+    "words": "",
+    "founder": 823,
+    "current_lord": 823,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 11,
+    "name": "House Baelish of the Fingers",
+    "places": [
+      "unnamed tower"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A grey stone head with fiery eyes, on a light green field(Vert, a stone head cendr\u00e9e, orbed gules)",
+    "words": "",
+    "founder": 1182,
+    "current_lord": 823,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 12,
+    "name": "House Ball",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Three white plates upon a chevron red on a white field",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 13,
+    "name": "House Banefort of Banefort",
+    "places": [
+      "Banefort"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A black hooded man, on a grey field, within a fiery tressure(Cendr\u00e9e, a hooded man sable within a tressure rayonn\u00e9 along the outer edge gules)",
+    "words": "",
+    "founder": 497,
+    "current_lord": 837,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 14,
+    "name": "House Bar Emmon of Sharp Point",
+    "places": [
+      "Sharp Point"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Fretty argent and white, a swordfish embowed haurient azure",
+    "words": "",
+    "founder": null,
+    "current_lord": 332,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 15,
+    "name": "House Baratheon of Dragonstone",
+    "places": [
+      "Dragonstone"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Or, a heart gules enflamed proper charged with a stag's head sable crowned of the field",
+    "words": "",
+    "founder": 1963,
+    "current_lord": 1963,
+    "heir": 975,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 16,
+    "name": "House Baratheon of King's Landing",
+    "places": [
+      "King's Landing"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "A black crowned stag and a gold lion, combatant, on a per pale gold and crimson field(Per pale or and gules, a stag, crowned, sable and a lion of the first combatant)",
+    "words": "",
+    "founder": 901,
+    "current_lord": 1029,
+    "heir": 775,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 17,
+    "name": "House Baratheon of Storm's End",
+    "places": [
+      "Storm's End",
+      "Dragonstone (House Baratheon of Dragonstone)"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black crowned stag, on a gold field(Or, a stag salient, crowned, sable)",
+    "words": "Ours is the Fury",
+    "founder": 797,
+    "current_lord": 1029,
+    "heir": 775,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 18,
+    "name": "House Beesbury of Honeyholt",
+    "places": [
+      "Honeyholt"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Paly or and sable, on a pale of the last three beehives of the first",
+    "words": "Beware our Sting",
+    "founder": 366,
+    "current_lord": 1103,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 19,
+    "name": "House Belmore of Strongsong",
+    "places": [
+      "Strongsong"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Six silver bells, 3, 2, 1, on a purple field(Purpure, six bells, 3, 2, 1, argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 176,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 20,
+    "name": "House Bettley",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three blue beetles, on a gold field(Or, three beetles azure)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 21,
+    "name": "House Bigglestone",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 22,
+    "name": "House Blackbar of Bandallon",
+    "places": [
+      "Bandallon"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a fess sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 23,
+    "name": "House Blackfyre of King's Landing",
+    "places": [],
+    "region": "",
+    "coat_of_arms": "Gules, a three headed dragon breathing flames sable",
+    "words": "",
+    "founder": 267,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": [
+      "Blackfyre"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "House Blackmont of Blackmont",
+    "places": [
+      "Blackmont"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "A black vulture with a pink infant in its claws, on yellow",
+    "words": "",
+    "founder": null,
+    "current_lord": 1607,
+    "heir": 1574,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 25,
+    "name": "House Blackmyre",
+    "places": [],
+    "region": "The Neck",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 26,
+    "name": "House Blacktyde of Blacktyde",
+    "places": [
+      "Blacktyde"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Vairy vert and sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 27,
+    "name": "House Blackwood of Raventree Hall",
+    "places": [
+      "Raventree Hall"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A flock of ravens surrounding a black shield charged with a dead weirwood, on a scarlet field(Gules, on an escutcheon sable a dead weirwood tree proper, all within an orle of ravens volant sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 2045,
+    "heir": 1241,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 28,
+    "name": "House Blanetree",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Green and brown maple leaves, strewn across a yellow field(Or, sem\u00e9 of maple leaves vert and tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 29,
+    "name": "House Blount",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "A red bend sinister between two black porcupines, on a green field(Vert, a bend sinister gules between two porcupines sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 30,
+    "name": "House Boggs",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 31,
+    "name": "House Boggs of Crackclaw Point",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 32,
+    "name": "House Bole",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 33,
+    "name": "House Bolling",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Vairy orange and blue, upon a black canton, a golden stag beneath an orange bend sinister(Vairy tenn\u00e9 and azure, on a canton sable a stag or debruised by a bend sinister of the first)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 34,
+    "name": "House Bolton of the Dreadfort",
+    "places": [
+      "The Dreadfort"
+    ],
+    "region": "The North",
+    "coat_of_arms": "A red flayed man on pink de sang",
+    "words": "Our Blades are Sharp",
+    "founder": null,
+    "current_lord": 933,
+    "heir": 849,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 35,
+    "name": "House Borrell of Sweetsister",
+    "places": [
+      "Breakwater in Sisterton"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A white spider crab, on a grey-green field(Vert-cendr\u00e9e, a spider crab argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 429,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 36,
+    "name": "House Botley of Lordsport",
+    "places": [
+      "Lordsport"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Vert, semy of fishes argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 419,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 37,
+    "name": "House Bracken of Stone Hedge",
+    "places": [
+      "Stone Hedge"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A red stallion upon a gold shield, on a brown field(Tenn\u00e9, on an escutcheon or a stallion rampant gules)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1559,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 38,
+    "name": "House Branch",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 39,
+    "name": "House Branfield",
+    "places": [
+      "exiles living at Ironrath"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 40,
+    "name": "House Brax of Hornvale",
+    "places": [
+      "Hornvale"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A purple unicorn, on a silver field(Argent, a unicorn rampant purpure)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1055,
+    "heir": 393,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 41,
+    "name": "House Breakstone",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "A red sledge",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 42,
+    "name": "House Briar",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 43,
+    "name": "House Bridges",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "A black stone bridge with three arches upon a golden chief above three blue pallets on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 44,
+    "name": "House Brightstone",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 45,
+    "name": "House Brook",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 46,
+    "name": "House Broom",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A silver helm crested with a sprig of broom, on a checkered black and green field(Chequy sable and vert, a helm argent, crested with a sprig of broom proper)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 47,
+    "name": "House Brownhill",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 48,
+    "name": "House Brune of Brownhollow",
+    "places": [
+      "Brownhollow"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Argent, a bear's paw erased within a double tressure tenn\u00e9",
+    "words": "",
+    "founder": null,
+    "current_lord": 184,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 49,
+    "name": "House Brune of the Dyre Den",
+    "places": [
+      "The Dyre Den"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1380,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 50,
+    "name": "House Buckler of Bronzegate",
+    "places": [
+      "Bronzegate"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Three brass buckles, on a blue field(Azure, three buckles or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 848,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 51,
+    "name": "House Buckwell of the Antlers",
+    "places": [
+      "the Antlers"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "A rack of golden antlers, on a field of vair(Vair, a stag's attire or)",
+    "words": "Pride and Purpose",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 52,
+    "name": "House Bulwer of Blackcrown",
+    "places": [
+      "Blackcrown"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Sanguine, a bull`s skull argent",
+    "words": "Death Before Disgrace",
+    "founder": null,
+    "current_lord": 100,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 53,
+    "name": "House Burley",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "White, upon a pile azure a knife white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 54,
+    "name": "House Bushy",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "A green fess embattled on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 55,
+    "name": "House Butterwell",
+    "places": [
+      "formerly Whitewalls"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Barry wavy green, white, and yellow(Barry wavy vert, argent, and or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 56,
+    "name": "House Byrch",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Gryonny white and black quartered with a silver axe on a green field(Quarterly, first and fourth, gyronny argent and sable, second and third, vert, an axe palewise argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 57,
+    "name": "House Bywater",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Blue frets on a white field, three silver fish on a blue chief(Argent fretty azure, on a chief of the second three fish of the field)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 58,
+    "name": "House Cafferen of Fawnton",
+    "places": [
+      "Fawnton"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Two white fawns counter salient, on a green field(Vert, two fawns counter-salient argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 59,
+    "name": "House Cargyll",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Bendy sinister sable and gules, a goose Or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 60,
+    "name": "House Caron of Nightsong",
+    "places": [
+      "Nightsong"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A field of black nightingales on yellow(Or, sem\u00e9 of nightingales sable)",
+    "words": "No Song so Sweet",
+    "founder": null,
+    "current_lord": 925,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 61,
+    "name": "House Cassel",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Ten white wolf heads, 4-3-2-1, on grey with a black border",
+    "words": "",
+    "founder": null,
+    "current_lord": 194,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 62,
+    "name": "House Casterly of Casterly Rock",
+    "places": [
+      "Casterly Rock"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": 1286,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 63,
+    "name": "House Caswell of Bitterbridge",
+    "places": [
+      "Bitterbridge"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a centaur with bow or",
+    "words": "",
+    "founder": null,
+    "current_lord": 644,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 64,
+    "name": "House Cave",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 65,
+    "name": "House Celtigar of Claw Isle",
+    "places": [
+      "Claw Isle"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Argent, semy of crabs gules",
+    "words": "",
+    "founder": null,
+    "current_lord": 127,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 66,
+    "name": "House Cerwyn of Cerwyn",
+    "places": [
+      "Castle Cerwyn"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Argent, a battle-axe paleways sable",
+    "words": "Honed and Ready",
+    "founder": null,
+    "current_lord": 588,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 67,
+    "name": "House Chambers",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 68,
+    "name": "House Charlton",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Three sprigs of mistletoe, green and red, on a gold field within a green border(Or, three sprigs of mistletoe vert, fructed gules, within a bordure of the second)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 69,
+    "name": "House Chelsted",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Per bend green and white shield, a spiked mace and a silver dagger crossed(Per bend vert and argent, in pale a mace surmounted by a dagger in fesse of the second)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 70,
+    "name": "House Chester of Greenshield",
+    "places": [
+      "Greenshield"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "A green hand on a gold escutcheon on a green field, a border of red rayonne",
+    "words": "",
+    "founder": null,
+    "current_lord": 760,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 71,
+    "name": "House Chyttering",
+    "places": [
+      "Chyttering"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Three golden enhanced bendlets on a white shield(Argent, three bendlets enhanced or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 663,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 72,
+    "name": "House Clegane",
+    "places": [
+      "Clegane's Keep"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three dogs on a yellow field(Or, three dogs courant in pale sable)",
+    "words": "",
+    "founder": 1272,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 73,
+    "name": "House Clifton",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1403,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 74,
+    "name": "House Cockshaw",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Sable, three feathers in fess gules argent and or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 75,
+    "name": "House Codd",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "Though All Men Do Despise Us",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 76,
+    "name": "House Coldwater of Coldwater Burn",
+    "places": [
+      "Coldwater Burn"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A blue pall with white borders, on a red field(Gules, a pall azure, fimbriated argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 939,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 77,
+    "name": "House Cole",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Ten black pellets, on a scarlet field(Gules, ten pellets, 4, 3, 2, 1)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 78,
+    "name": "House Condon",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "An eagle's head between crossed tridents, red on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 79,
+    "name": "House Conklyn",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 80,
+    "name": "House Connington of Griffin's Roost",
+    "places": [
+      "Griffin's Roost"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Two combatant griffins, counterchanged, on a red and white field(Per pale gules and argent, two griffins combatant counterchanged)",
+    "words": "",
+    "founder": null,
+    "current_lord": 576,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 81,
+    "name": "House Corbray of Heart's Home",
+    "places": [
+      "Heart's Home"
+    ],
+    "region": "",
+    "coat_of_arms": "Three black ravens in flight, holding three red hearts, on a white field(Argent, three ravens volant sable, each clutching in their claws a heart gules)",
+    "words": "",
+    "founder": 256,
+    "current_lord": 681,
+    "heir": 677,
+    "ancestral_weapons": [
+      "Lady Forlorn"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "House Cordwayner of Hammerhal",
+    "places": [
+      "Hammerhal"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Lozengny vert and or, a pair of boots sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 83,
+    "name": "House Costayne of Three Towers",
+    "places": [
+      "Three Towers"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Quarterly; sable, a chalice argent; or, a rose sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 1030,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 84,
+    "name": "House Cox of Saltpans",
+    "places": [
+      "Saltpans"
+    ],
+    "region": "",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1846,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 85,
+    "name": "House Crabb",
+    "places": [
+      "The Whispers (former)"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 86,
+    "name": "House Crakehall of Crakehall",
+    "places": [
+      "Crakehall"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A brindled boar on a brown field(Tenn\u00e9, a boar brindled sable and argent)",
+    "words": "None so Fierce",
+    "founder": 257,
+    "current_lord": 922,
+    "heir": 1046,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 87,
+    "name": "House Crane of Red Lake",
+    "places": [
+      "Red Lake"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Azure, cranes in chevron or",
+    "words": "",
+    "founder": 1905,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 88,
+    "name": "House Cray",
+    "places": [],
+    "region": "The Neck",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 89,
+    "name": "House Cressey",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Seven silver coins on a red bend sinister, between two silver helmets, on a blue field(Azure, on a bend sinister gules seven plates, between two helmets argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 90,
+    "name": "House Crowl of Deepdown",
+    "places": [
+      "Deepdown"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Pily gules and sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 91,
+    "name": "House Cuy of Sunhouse",
+    "places": [
+      "Sunhouse"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Six yellow flowers on blue",
+    "words": "",
+    "founder": null,
+    "current_lord": 215,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 92,
+    "name": "House Dalt of Lemonwood",
+    "places": [
+      "Lemonwood"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Purpure, semy of lemons Or",
+    "words": "",
+    "founder": null,
+    "current_lord": 309,
+    "heir": 1163,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 93,
+    "name": "House Dargood",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 94,
+    "name": "House Darke",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 95,
+    "name": "House Darklyn of Duskendale",
+    "places": [
+      "The Dun Fort"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Fusily sable and or, upon a pale in dexter gules seven escutcheons argent",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 96,
+    "name": "House Darkwood",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 97,
+    "name": "House Darry of Darry",
+    "places": [
+      "Darry"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A black plowman on a brown field(Tenn\u00e9, a plowman sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 712,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 98,
+    "name": "House Dayne of High Hermitage",
+    "places": [
+      "High Hermitage"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1421,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 99,
+    "name": "House Dayne of Starfall",
+    "places": [
+      "Starfall"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "A white sword and falling star crossed on lilac (Purpure, a blazing star bendways surmounted by a sword bendways sinister argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 348,
+    "heir": null,
+    "ancestral_weapons": [
+      "Dawn"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "House Deddings",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 101,
+    "name": "House Doggett",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Per bend, a white unicorn on a green field, a black raven on a white field(Per bend vert and argent, in sinister chief a unicorn rampant of the second, and in dexter base a raven closed sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 102,
+    "name": "House Dondarrion of Blackhaven",
+    "places": [
+      "Blackhaven"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A forked purple lightning bolt, on black field speckled with four-pointed stars(Sable, sem\u00e9 of mullets of four points argent, a lightning bolt forked purpure)",
+    "words": "",
+    "founder": null,
+    "current_lord": 190,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 103,
+    "name": "House Donniger",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "A red sun rising from a grey-green sea, against a yellow sky(Per fesse wavy or and vert-cendr\u00e9e, a demi-sun-in-splendour issuant from the line of division gules)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 104,
+    "name": "House Drinkwater",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 105,
+    "name": "House Drox",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three black crossbows, on a gold field with a black border(Or, three crossbows within a bordure sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 106,
+    "name": "House Drumm of Old Wyk",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "Gules, a bone hand argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 331,
+    "heir": null,
+    "ancestral_weapons": [
+      "Red Rain"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "House Dryland",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 108,
+    "name": "House Dunn",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "per pale black and pink, a countercharged two-headed pelican",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 109,
+    "name": "House Durrandon",
+    "places": [
+      "Storm's End"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black crowned stag, on a gold field(Or, a stag salient, crowned, sable)",
+    "words": "Ours is the Fury",
+    "founder": 333,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 110,
+    "name": "House Durwell",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 111,
+    "name": "House Dustin of Barrowton",
+    "places": [
+      "Barrow Hall"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Two rusted longaxes with black shafts crossed, a black crown between their points, on yellow",
+    "words": "",
+    "founder": null,
+    "current_lord": 166,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 112,
+    "name": "House Edgerton",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Purpure, a wheel flaming tenny quartered with half-fusilly sable and argent",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 113,
+    "name": "House Egen",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "A yellow sun, white crescent moon, and silver star on a blue chief, above a white field(Argent, on a chief azure a moon increscent of the first between a sun-in-splendour or and a mullet of the first)",
+    "words": "By Day or Night",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 114,
+    "name": "House Elesham of the Paps",
+    "places": [
+      "the Paps"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A black star between an inverted stone-coloured double-pile, on a pink field(Carnation, a mullet sable between two piles issuant from base cendr\u00e9e)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 115,
+    "name": "House Erenford",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "A golden heron, beak and legs black, standing with a silver fish in its beak, on a pink field(Carnation, a heron or, beaked and membered sable, clasped in its mouth a fish argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 116,
+    "name": "House Errol of Haystack Hall",
+    "places": [
+      "Haystack Hall"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A yellow haystack, on an orange field(Tenn\u00e9, a haystack or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 962,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 117,
+    "name": "House Estermont of Greenstone",
+    "places": [
+      "Greenstone"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A dark-green sea-turtle on a pale-green field(Vert, a sea-turtle tergiant of the field)",
+    "words": "",
+    "founder": null,
+    "current_lord": 357,
+    "heir": 52,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 118,
+    "name": "House Estren of Wyndhall",
+    "places": [
+      "Wyndhall"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A green saltire between four red double-headed eagles, on a white field(Argent, a saltire vert between four double-headed eagles displayed gules)",
+    "words": "",
+    "founder": null,
+    "current_lord": 860,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 119,
+    "name": "House Falwell",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A fool in red and gold motley juggling five suns, on a black field(Sable, a fool proper clothed in motley gules and or, juggling five suns-in-splendour of the last)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 120,
+    "name": "House Farman of Faircastle",
+    "places": [
+      "Faircastle, Fair Isle"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three silver ships on a blue field with a border of crimson and gold(Azure, three galleys argent within a bordure compony gules and or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 963,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 121,
+    "name": "House Farring",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Per pale purpure and argent, two knights combatant crossing swords counterchanged",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 122,
+    "name": "House Farwynd of Sealskin Point",
+    "places": [
+      "Sealskin Point"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 2033,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 123,
+    "name": "House Farwynd of the Lonely Light",
+    "places": [
+      "Lonely Light"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Per fess wavy tenny and sable, a demi-torteaux gules issuant from the division surmounted by a longship sailing upon the division of the second",
+    "words": "",
+    "founder": null,
+    "current_lord": 453,
+    "heir": 455,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 124,
+    "name": "House Fell of Felwood",
+    "places": [
+      "Felwood"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Per fess, a white crescent moon on a black field above a green field, a sprucetree line between(Per fess sapinag\u00e9 vert and sable, in dexter chief a moon increscent argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 125,
+    "name": "House Fenn",
+    "places": [],
+    "region": "The Neck",
+    "coat_of_arms": "Purpure, three water lilies sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 126,
+    "name": "House Ferren",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Per saltire, checkered red and gold, a silver and black ferret on a green field(Per saltire chequy gules and or and vert, in each flank point a ferret argent and sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 127,
+    "name": "House Fisher",
+    "places": [
+      "Misty Isle"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A crowned catfish, spotted grey, on a blue field(Azure, a catfish cendr\u00e9e, crowned or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 128,
+    "name": "House Fisher of the Stony Shore",
+    "places": [
+      "Stony Shore"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 129,
+    "name": "House Flint  of the mountains",
+    "places": [
+      "northern mountains"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 2023,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 130,
+    "name": "House Flint of Breakstone Hill",
+    "places": [
+      "Breakstone Hill"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 131,
+    "name": "House Flint of Flint's Finger",
+    "places": [
+      "Flint's Finger"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Paly sable and cendr\u00e9e on a pall inverted argent a hand couped of the second",
+    "words": "",
+    "founder": null,
+    "current_lord": 1882,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 132,
+    "name": "House Flint of Widow's Watch",
+    "places": [
+      "Widow's Watch"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Azure, semy of whitecaps argent on a chief wavy Or two eyes of the second irised of the first and pupiled sable",
+    "words": "Ever Vigilant",
+    "founder": null,
+    "current_lord": 669,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 133,
+    "name": "House Florent of Brightwater Keep",
+    "places": [
+      "Stripped (formerly Brightwater Keep)"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "A red fox in a circle of blue flowers on ermine",
+    "words": "",
+    "founder": 1388,
+    "current_lord": 68,
+    "heir": 742,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 134,
+    "name": "House Follard",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Gyronny gules and argent, on a canton Or a fool's cap two peaked of the first and second",
+    "words": "None so Wise",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 135,
+    "name": "House Foote",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A copper dagger across a black chevron, on a white field(Argent, a chevron reversed sable, surmounted by a dagger erect tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 136,
+    "name": "House Foote of Nightsong",
+    "places": [
+      "Nightsong"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": 825,
+    "current_lord": 825,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 137,
+    "name": "House Footly of Tumbleton",
+    "places": [
+      "Tumbleton"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "a field of silver caltrops on black",
+    "words": "Tread Lightly Here",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 138,
+    "name": "House Forrester",
+    "places": [
+      "Ironrath (Telltale)"
+    ],
+    "region": "The North",
+    "coat_of_arms": "an ironwood tree outline with a sword outline drawn inside it, pointing down. (Telltale)",
+    "words": "Iron from Ice (Telltale)",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 139,
+    "name": "House Fossoway of Cider Hall",
+    "places": [
+      "Cider Hall"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Or, an apple gules",
+    "words": "Taste of Glory",
+    "founder": 395,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 140,
+    "name": "House Fossoway of New Barrel",
+    "places": [
+      "New Barrel"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Or, an apple vert",
+    "words": "",
+    "founder": 853,
+    "current_lord": 577,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 141,
+    "name": "House Fowler of Skyreach",
+    "places": [
+      "Skyreach"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Argent, a hooded hawk trussed azure",
+    "words": "Let Me Soar",
+    "founder": null,
+    "current_lord": 396,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 142,
+    "name": "House Frey of Riverrun",
+    "places": [
+      "Riverrun"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": 377,
+    "current_lord": 377,
+    "heir": 1058,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 143,
+    "name": "House Frey of the Crossing",
+    "places": [
+      "The Twins"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Two blue towers, united by a bridge, on a silver-grey field(Cendr\u00e9e, a bridge azure, at either end a tower of the same)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1093,
+    "heir": 352,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 144,
+    "name": "House Frost",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 145,
+    "name": "House Gardener of Highgarden",
+    "places": [
+      "Highgarden"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a hand couped vert",
+    "words": "",
+    "founder": 410,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 146,
+    "name": "House Gargalen of Salt Shore",
+    "places": [
+      "Salt Shore"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Or, a cockatrice gules, in its beak a serpent sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 1036,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 147,
+    "name": "House Garner",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three grey owls upon white plates, on a green field(Vert, three plates, each charged with an owl close affront\u00e9 cendr\u00e9e)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 148,
+    "name": "House Gaunt",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Purpure, three lances palewise in fess between two flaunches sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 149,
+    "name": "House Glenmore",
+    "places": [
+      "Rillwater Crossing"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 150,
+    "name": "House Glover of Deepwood Motte",
+    "places": [
+      "Deepwood Motte"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Gules, a gauntlet argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 397,
+    "heir": 903,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 151,
+    "name": "House Goodbrook",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "A blue wavy bend, on a gold field(Or, a bend wavy azure)",
+    "words": "",
+    "founder": null,
+    "current_lord": 673,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 152,
+    "name": "House Goodbrother of Corpse Lake",
+    "places": [
+      "Corpse Lake"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 153,
+    "name": "House Goodbrother of Crow Spike Keep",
+    "places": [
+      "Crow Spike Keep"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 154,
+    "name": "House Goodbrother of Downdelving",
+    "places": [
+      "Downdelving"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 155,
+    "name": "House Goodbrother of Hammerhorn",
+    "places": [
+      "Hammerhorn"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Gules, a warhorn sable banded or.",
+    "words": "",
+    "founder": null,
+    "current_lord": 434,
+    "heir": 440,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 156,
+    "name": "House Goodbrother of Orkmont",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 157,
+    "name": "House Goodbrother of Shatterstone",
+    "places": [
+      "Shatterstone"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1762,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 158,
+    "name": "House Gower",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Nine yellow trefoils on a black cross, on an ermine field(Ermine, on a cross sable nine trefoils or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 159,
+    "name": "House Graceford of Holyhall",
+    "places": [
+      "Holyhall"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Tenny, on a pale wavy argent the Mother's face proper",
+    "words": "Work Her Will",
+    "founder": null,
+    "current_lord": 81,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 160,
+    "name": "House Grafton of Gulltown",
+    "places": [
+      "Gulltown"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A yellow tower, burning, on a black pile, on a flame-red field(Gules, on a pile sable a tower or with flames issuant from the battlements proper)",
+    "words": "",
+    "founder": null,
+    "current_lord": 420,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 161,
+    "name": "House Grandison of Grandview",
+    "places": [
+      "Grandview"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black sleeping lion, on a yellow field(Or, a lion dormant sable)",
+    "words": "Rouse Me Not",
+    "founder": null,
+    "current_lord": 510,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 162,
+    "name": "House Graves",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Green and white gyronny, a double-headed eagle counter-charged, gold beak and talons",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 163,
+    "name": "House Greenfield of Greenfield",
+    "places": [
+      "Greenfield"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A white double-tressure, on a green field(Vert, a double-tressure argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 405,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 164,
+    "name": "House Greengood",
+    "places": [],
+    "region": "The Neck",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 165,
+    "name": "House Greenwood",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 166,
+    "name": "House Grell",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Three red martlets on a white bend, on a blue field(Azure, on a bend argent three martlets gules)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 167,
+    "name": "House Grey",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 168,
+    "name": "House Greyiron of Orkmont",
+    "places": [
+      "Orkmont"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "The sea king's head, white with dark green seaweed beard and hair, a black crown on a grey field",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 169,
+    "name": "House Greyjoy of Pyke",
+    "places": [
+      "Pyke"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Sable, a kraken Or",
+    "words": "We Do Not Sow",
+    "founder": null,
+    "current_lord": 385,
+    "heir": 1022,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 170,
+    "name": "House Greystark of Wolf's Den",
+    "places": [
+      "Wolf's Den"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 171,
+    "name": "House Grimm of Greyshield",
+    "places": [
+      "Grimston"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "An iron escutcheon with silver studs on a grey-green field strewn with longships proper",
+    "words": "",
+    "founder": null,
+    "current_lord": 445,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 172,
+    "name": "House Haigh",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "A black pitchfork on a gold bend sinister, on a russet field(Tenn\u00e9, on a bend sinister or a pitchfork sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 173,
+    "name": "House Hamell",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "An erminois maunch, on a pink field with an erminois border(Carnation, a maunch within a bordure erminois)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 174,
+    "name": "House Harclay",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Azure, on a bend argent a hurt between an increscent and decrescent of the first",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 175,
+    "name": "House Hardy",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 176,
+    "name": "House Hardyng",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "A field of red and white diamonds(Lozengy argent and gules)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 177,
+    "name": "House Harlaw of Grey Garden",
+    "places": [
+      "Grey Garden, Harlaw"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Quartered: a silver scythe on black, a peacock on cream",
+    "words": "",
+    "founder": null,
+    "current_lord": 473,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 178,
+    "name": "House Harlaw of Harlaw",
+    "places": [
+      "Ten Towers"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Sable, a scythe argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 914,
+    "heir": 473,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 179,
+    "name": "House Harlaw of Harlaw Hall",
+    "places": [
+      "Harlaw Hall, Harlaw"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Per bend black and silver, two scythes counterchanged",
+    "words": "",
+    "founder": null,
+    "current_lord": 979,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 180,
+    "name": "House Harlaw of Harridan Hill",
+    "places": [
+      "Harridan Hill, Harlaw"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "the Harlaw scythe on a pale blue field",
+    "words": "",
+    "founder": null,
+    "current_lord": 201,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 181,
+    "name": "House Harlaw of the Tower of Glimmering",
+    "places": [
+      "Tower of Glimmering, Harlaw"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "The Harlaw scythe girdled within an embattled border.",
+    "words": "",
+    "founder": null,
+    "current_lord": 505,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 182,
+    "name": "House Harlton",
+    "places": [
+      "Castlewood"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A silver tree on green",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 183,
+    "name": "House Harroway of Harrenhal",
+    "places": [
+      "Harrenhal"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Per bend sinister orange and sable rayonn\u00e9, a castle counterchanged(Per bend sinister rayonn\u00e9 tenn\u00e9 and sable, a castle counterchanged)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 184,
+    "name": "House Harte",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Three red hart's heads caboshed on a white bend on vair",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 185,
+    "name": "House Hastwyck",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Barry olive and ivory",
+    "words": "None so Dutiful",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 186,
+    "name": "House Hasty",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A white bend cotised, on a purple field(Purpure, a bend cotised argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 187,
+    "name": "House Hawick of Saltpans",
+    "places": [
+      "Saltpans"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "White seabirds strewn across a blue field(Azure, sem\u00e9 of seabirds argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 188,
+    "name": "House Hawthorne",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A ring of black thorns and a ring of pink flowers, interlocked, on a green field(Vert, two interlocking annulets, one composed of thorns sable, the other of flowers carnation)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 189,
+    "name": "House Hayford of Hayford",
+    "places": [
+      "Hayford"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Green fretty over gold, a green pale wavy",
+    "words": "",
+    "founder": null,
+    "current_lord": 382,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 190,
+    "name": "House Heddle",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 191,
+    "name": "House Herston",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A yellow rooster's head with red comb, within a white escutcheon, on a red field(Gules, on an escutcheon argent, a cock's head or, combed and wattled of the field)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 192,
+    "name": "House Hersy of Newkeep",
+    "places": [
+      "Newkeep"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A white winged chalice, on a pink field(Carnation, a winged cup displayed argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 193,
+    "name": "House Hetherspoon",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "An oak spoon within a white cartouche, on a field of orange and black diamonds(Lozengy tenn\u00e9 and sable, on a cartouche argent a spoon or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1047,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 194,
+    "name": "House Hewett of Oakenshield",
+    "places": [
+      "Lord Hewett's castle on Oakenshield"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "an oaken escutcheon studded with iron on a field bendy of undulating blue and white",
+    "words": "",
+    "founder": null,
+    "current_lord": 515,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 195,
+    "name": "House Hightower of the Hightower",
+    "places": [
+      "The Hightower, Oldtown"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Cendr\u00e9e, a tower argent with a beacon on fire gules",
+    "words": "We Light the Way",
+    "founder": 2062,
+    "current_lord": 635,
+    "heir": 159,
+    "ancestral_weapons": [
+      "Vigilance"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "House Hoare of Orkmont",
+    "places": [
+      "Orkmont",
+      "Hoare Castle",
+      "Fairmarket",
+      "Harrenhal"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Per saltire, two heavy silver chains crossing between a gold longship on a black field, a dark green pine on a white field, a cluster of red grapes on a gold field, and a black raven flying in a blue sky.",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 197,
+    "name": "House Hogg of Sow's Horn",
+    "places": [
+      "Sow's Horn"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1887,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 198,
+    "name": "House Hollard",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Barry gules and carnation, a chief azure with three crowns Or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 199,
+    "name": "House Holt",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 200,
+    "name": "House Holt",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 201,
+    "name": "House Hook",
+    "places": [
+      "Extinct"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 202,
+    "name": "House Hornwood of Hornwood",
+    "places": [
+      "Hornwood"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Tenny, a bull moose trippant proper",
+    "words": "Righteous in Wrath",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 203,
+    "name": "House Horpe",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Per chevron engrailed grey and bone, three death's head moths counterchanged(Per chevron reversed engrailed cendr\u00e9e and argent, three death's head moths counterchanged)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 204,
+    "name": "House Hull",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 205,
+    "name": "House Humble",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 206,
+    "name": "House Hunt",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a deer bound and slung on a pole fesswise tenny",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 207,
+    "name": "House Hunter of Longbow Hall",
+    "places": [
+      "Longbow Hall"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Five silver arrows, fanned, on a brown field(Tenn\u00e9, a sheaf of five arrows, points to chief, argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 426,
+    "heir": 387,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 208,
+    "name": "House Hutcheson",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Or, two bendlets between in base dexter a hand pointing to chief sinister, and in chief sinister a sun in splendour gules",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 209,
+    "name": "House Inchfield",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Cendr\u00e9e, a bend sinister chequy sable and argent",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 210,
+    "name": "House Ironmaker",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1372,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 211,
+    "name": "House Ironsmith",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Or, a sword palewise between four horseshoes sable all within a bordure vert",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 212,
+    "name": "House Jast",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "An inverted yellow pall between three yellow lions' heads, on a black field(Sable, a pall reversed between three lions' heads erased or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 124,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 213,
+    "name": "House Jordayne of the Tor",
+    "places": [
+      "The Tor"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Chequy light and dark green, a quill or.",
+    "words": "Let it be Written",
+    "founder": null,
+    "current_lord": 1035,
+    "heir": 776,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 214,
+    "name": "House Justman",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Golden scales within a blue a double tressure, on a white field(Argent, a pair of balances or within a double-tressure azure)",
+    "words": "",
+    "founder": 178,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 215,
+    "name": "House Karstark of Karhold",
+    "places": [
+      "Karhold"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Sable, a sunburst argent",
+    "words": "The Sun of Winter",
+    "founder": 603,
+    "current_lord": 476,
+    "heir": 96,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 216,
+    "name": "House Keath",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Quarterly of nine; a white fish on a grey field; a gold fish hook on a white field(Quarterly of nine, first, third, fifth, seventh and ninth cendr\u00e9e, a fish argent; second, fourth, sixth and eight argent, a fish-hook or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 217,
+    "name": "House Kellington",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black book bound in bronze, locked, on a pale blue field(Azure, a locked book sable, edged and garnished tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 218,
+    "name": "House Kenning of Harlaw",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "Sable, issuant from a cloud bank in chief the Storm God's hand cendr\u00e9e with lightning flashing from its fingertip Or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 219,
+    "name": "House Kenning of Kayce",
+    "places": [
+      "Kayce"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "Four sunbursts counterchanged on a quartered orange and black field(Quarterly tenn\u00e9 and sable, four suns-in-splendour counterchanged)",
+    "words": "",
+    "founder": 492,
+    "current_lord": 1013,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 220,
+    "name": "House Kettleblack",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Gules, a kettle within an orle sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 221,
+    "name": "House Kidwell of Ivy Hall",
+    "places": [
+      "Ivy Hall"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Cendr\u00e9e masoned sable, semy of ivy leaves vert",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 222,
+    "name": "House Knott",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Argent, a saltire surmounted by a fret tenny",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 223,
+    "name": "House Kyndall",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 224,
+    "name": "House Ladybright",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 225,
+    "name": "House Lake",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 226,
+    "name": "House Lake",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Tenny, seven pommes arranged 2-2-2-1",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 227,
+    "name": "House Langward",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Per fess undy: A crown of white stars on burgundy above black",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 228,
+    "name": "House Lannett",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 229,
+    "name": "House Lannister of Casterly Rock",
+    "places": [
+      "Casterly Rock"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A gold lion, on a crimson field(Gules, a lion or)",
+    "words": "Hear Me Roar!",
+    "founder": 615,
+    "current_lord": 238,
+    "heir": null,
+    "ancestral_weapons": [
+      "Brightroar"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "House Lannister of Darry",
+    "places": [
+      "Darry"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Quarterly, a gold lion on a red field; a black plowman on a brown field(Quarterly, first and fourth gules a lion rampant or (for Lannister), second and third tenn\u00e9 a plowman sable (for Darry))",
+    "words": "",
+    "founder": 613,
+    "current_lord": 613,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 231,
+    "name": "House Lannister of Lannisport",
+    "places": [
+      "Lannisport"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 232,
+    "name": "House Lanny",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 233,
+    "name": "House Lantell",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 234,
+    "name": "House Lefford of the Golden Tooth",
+    "places": [
+      "Golden Tooth"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A golden inverted pile on a sky-blue field, a yellow sun in the first(Bleu celeste, a pile reversed or, in canton a sun-in-splendor of the same)",
+    "words": "",
+    "founder": null,
+    "current_lord": 103,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 235,
+    "name": "House Leygood",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Tenny, three thunderbolts in fess sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 236,
+    "name": "House Liddle",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Per pale argent and vert, a fir tree line between, three brown pinecones on the argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 1031,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 237,
+    "name": "House Lightfoot",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Tenny, a trail of footprints in bend sinister argent",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 238,
+    "name": "House Lipps",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "Two large pink lips, on a dark blue field(Azure, a pair of lips carnation)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 239,
+    "name": "House Locke of Oldcastle",
+    "places": [
+      "Oldcastle"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Two bronze keys crossed on an argent pale on purpure.",
+    "words": "",
+    "founder": null,
+    "current_lord": 788,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 240,
+    "name": "House Lolliston",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Three oaken barrels, on a white field(Argent, three oaken barrels proper)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 241,
+    "name": "House Long",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 242,
+    "name": "House Longthorpe of Longsister",
+    "places": [
+      "Longsister"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1895,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 243,
+    "name": "House Longwaters",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 244,
+    "name": "House Lonmouth",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Quartered of six: red lips strewn on a yellow field, yellow skulls strewn on a black field(Quarterly of six, first, third and fifth, or, sem\u00e9 of lips gules, second, fourth and sixth, sable, sem\u00e9 of skulls of the first)",
+    "words": "The Choice is Yours",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 245,
+    "name": "House Lorch",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A black manticore on a white field, beneath a crimson chief with three gold coins(Argent, a manticore passant sable, on a chief gules three bezants)",
+    "words": "",
+    "founder": null,
+    "current_lord": 645,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 246,
+    "name": "House Lothston of Harrenhal",
+    "places": [
+      "Harrenhal"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A black bat on a field per bend, silver and gold(Per bend argent and or, a bat displayed sable\")",
+    "words": "",
+    "founder": 656,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 247,
+    "name": "House Lowther",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "A silver dolphin on a blue-green field",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 248,
+    "name": "House Lyberr",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Per bend sinister: a grey cat's face on black, a brown jug on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 249,
+    "name": "House Lychester",
+    "places": [
+      "Castle Lychester"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A black talon, on an orange and white gyronny field(Gyronny tenn\u00e9 and argent, an eagle's leg erased sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 674,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 250,
+    "name": "House Lydden of Deep Den",
+    "places": [
+      "Deep Den"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A white badger on a per pale green and brown field(Per pale vert and tenn\u00e9, a badger passant argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 632,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 251,
+    "name": "House Lynderly of the Snakewood",
+    "places": [
+      "Snakewood"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A black field strewn with green vipers(Sable, sem\u00e9 of snakes vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": 579,
+    "heir": 1012,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 252,
+    "name": "House Magnar of Kingshouse",
+    "places": [
+      "Kingshouse"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Argent, a lobster vert holding a harpoon sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 253,
+    "name": "House Mallery",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Purpure, six mullets argent",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 254,
+    "name": "House Mallister of Seagard",
+    "places": [
+      "Seagard"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A silver eagle, displayed, on an indigo field(Purpure, an eagle displayed argent)",
+    "words": "Above the Rest",
+    "founder": null,
+    "current_lord": 539,
+    "heir": 814,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 255,
+    "name": "House Manderly of White Harbor",
+    "places": [
+      "New Castle in White Harbor",
+      "Dunstonbury (formerly)"
+    ],
+    "region": "The North",
+    "coat_of_arms": "A white merman with dark green hair, beard and tail, carrying a black trident, on a blue-green field",
+    "words": "",
+    "founder": null,
+    "current_lord": 1124,
+    "heir": 1122,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 256,
+    "name": "House Manning",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "A red sea lion between two black pallets on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 257,
+    "name": "House Manwoody of Kingsgrave",
+    "places": [
+      "Kingsgrave"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Sable, a skull argent crowned or.",
+    "words": "",
+    "founder": null,
+    "current_lord": 279,
+    "heir": 762,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 258,
+    "name": "House Marbrand of Ashemark",
+    "places": [
+      "Ashemark"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "An orange burning tree, on a smoky field(Cendr\u00e9e, a tree in flame tenn\u00e9)",
+    "words": "Burning bright",
+    "founder": null,
+    "current_lord": 285,
+    "heir": 31,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 259,
+    "name": "House Marsh",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Or, ten frogs vert",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 260,
+    "name": "House Massey of Stonedance",
+    "places": [
+      "Stonedance"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "A triple spiral; red, green and blue, on white",
+    "words": "",
+    "founder": 698,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 261,
+    "name": "House Meadows of Grassy Vale",
+    "places": [
+      "Grassfield Keep in Grassy Vale"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "a border of flowers of many colors and varieties on green",
+    "words": "",
+    "founder": null,
+    "current_lord": 369,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 262,
+    "name": "House Melcolm of Old Anchor",
+    "places": [
+      "Old Anchor"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A rusty anchor, on a turquoise field, beneath yellow chief with three blue plates(Azure, an anchor tenn\u00e9, on a chief or three hurts)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 263,
+    "name": "House Merlyn of Pebbleton",
+    "places": [
+      "Pebbleton"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Argent, Twining waterspouts vert",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 264,
+    "name": "House Merryweather of Longtable",
+    "places": [
+      "Longtable"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "White, a cornucopia Or spilling foods proper within a bordure Or",
+    "words": "Behold Our Bounty",
+    "founder": null,
+    "current_lord": 796,
+    "heir": 943,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 265,
+    "name": "House Mertyns of Mistwood",
+    "places": [
+      "Mistwood"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A white great horned owl on a grey field(Cendr\u00e9e, a great-horned owl close affront\u00e9 argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 728,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 266,
+    "name": "House Middlebury",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Quarterly, a black saltire on yellow, green and white diamonds",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 267,
+    "name": "House Mollen",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "White, upon a pile vert a snowy pine tree proper",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 268,
+    "name": "House Moore",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "Three bronze spearheads, on a white field, within a bronze embattled border(Argent, three spearheads within a bordure embattled tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 269,
+    "name": "House Mooton of Maidenpool",
+    "places": [
+      "Maidenpool"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A red salmon within a gold tressure, on a white field(Argent, a salmon gules within a tressure or)",
+    "words": "Wisdom and Strength",
+    "founder": null,
+    "current_lord": 1118,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 270,
+    "name": "House Moreland",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Per pale barry russet and green(Per pale barry tenn\u00e9 and vert)",
+    "words": "",
+    "founder": 813,
+    "current_lord": 907,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 271,
+    "name": "House Mormont of Bear Island",
+    "places": [
+      "Bear Island"
+    ],
+    "region": "The North",
+    "coat_of_arms": "A wood vert, a bear sable",
+    "words": "Here We Stand",
+    "founder": null,
+    "current_lord": 692,
+    "heir": 99,
+    "ancestral_weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "House Morrigen of Crow's Nest",
+    "places": [
+      "Crow's Nest"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black crow in flight on a storm-green field(Vert, a crow volant sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 630,
+    "heir": 883,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 273,
+    "name": "House Moss",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "A bend orange on vairy grey and green",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 274,
+    "name": "House Mudd of Oldstones",
+    "places": [
+      "Oldstones"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A golden crown studded with emeralds, on a red-brown field(Tenn\u00e9, an ancient crown or studded with emeralds vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 275,
+    "name": "House Mullendore of Uplands",
+    "places": [
+      "Uplands"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Black-and-orange butterflies on white",
+    "words": "",
+    "founder": null,
+    "current_lord": 726,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 276,
+    "name": "House Musgood",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Quarterly: A golden pavilion on a blue field, a green laurel crown on a white field(Quarterly, first and fourth, azure, a pavilion or, second and third, argent, a garland of laurel vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 277,
+    "name": "House Myatt",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A spotted yellow-and-black treecat, on a mud-brown field(Tenn\u00e9, a treecat or pellet\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 278,
+    "name": "House Myre of Harlaw",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "10 nooses, 4-3-2-1, black on white with a border of blood",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 279,
+    "name": "House Nayland of Hag's Mire",
+    "places": [
+      "Hag's Mire"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 280,
+    "name": "House Netley",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 281,
+    "name": "House Norcross",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a cross embattled sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 282,
+    "name": "House Norrey",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Or,six thistles slipped vert",
+    "words": "",
+    "founder": null,
+    "current_lord": 205,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 283,
+    "name": "House Norridge",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Azure, six arrows in bend sable heads flaming gules",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 284,
+    "name": "House Nutt",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 285,
+    "name": "House Nymeros Martell of Sunspear",
+    "places": [
+      "Old Palace within Sunspear"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Tenny, a sun in splendour gules transfixed by a spear bendwise Or",
+    "words": "Unbowed, Unbent, Unbroken",
+    "founder": 1718,
+    "current_lord": 326,
+    "heir": 130,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 286,
+    "name": "House Oakheart of Old Oak",
+    "places": [
+      "Old Oak"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Or, three oak leaves vert",
+    "words": "Our Roots Go Deep",
+    "founder": 570,
+    "current_lord": 147,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 287,
+    "name": "House Oldflowers",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Vert, ten hands couped argent surmounted by a bend sinister gules",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 288,
+    "name": "House Orkwood of Orkmont",
+    "places": [
+      "Orkmont"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Or, semy of pines vert",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 289,
+    "name": "House Orme",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Per fess sable and bendy Or and argent, in chief three harps in fess of the seocnd",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 290,
+    "name": "House Osgrey of Leafy Lake",
+    "places": [
+      "Extinct (formerly Leafy Lake)"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 291,
+    "name": "House Osgrey of Standfast",
+    "places": [
+      "Standfast",
+      "Coldmoat (formally)"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a lion rampant chequy vert and or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 292,
+    "name": "House Overton",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Sable, a fess chequy argent and Or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 293,
+    "name": "House Paege",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Twining red-and-white snakes, on a black field(Sable, two serpents argent and gules entwined palewise)",
+    "words": "",
+    "founder": null,
+    "current_lord": 462,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 294,
+    "name": "House Parren",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Per saltire: burgundy and white stripes; a black lion's head on a gold field(Per saltire, the first paly gules and argent, the second or, a lion's head erased sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 295,
+    "name": "House Payne",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Gold coins in the checks of a checkered purple and white field(Chequy purpure and argent, each chequer charged with a bezant)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 296,
+    "name": "House Peake of Starpike",
+    "places": [
+      "Starpike",
+      "Whitegrove (formerly)"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Tenny, three castles sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 1027,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 297,
+    "name": "House Peasebury of Poddingfield",
+    "places": [
+      "Poddingfield"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A green pea pod, burst open, on a white field, bordered by three rows of green peas(Argent, a pea pod open within a bordure of three rows of peas vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": 908,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 298,
+    "name": "House Peat",
+    "places": [],
+    "region": "The Neck",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 299,
+    "name": "House Peckledon",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Ten purple stars, on a yellow field(Or, ten mullets, 4, 3, 2, 1, purpure)",
+    "words": "Unflinching",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 300,
+    "name": "House Penrose of Parchments",
+    "places": [
+      "Parchments"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "White crossed quills, on a russet field(Tenn\u00e9, two quills saltirewise argent)",
+    "words": "Set Down Our Deeds",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 301,
+    "name": "House Perryn",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 302,
+    "name": "House Piper of Pinkmaiden",
+    "places": [
+      "Pinkmaiden Castle"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A pink dancing maiden in a swirl of white silk, on a blue field(Azure, a maiden dancing proper enwrapped with silk argent)",
+    "words": "Brave and Beautiful",
+    "founder": null,
+    "current_lord": 245,
+    "heir": 721,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 303,
+    "name": "House Plumm",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three purple roundels, on a gold field(Or, three golpes)",
+    "words": "Come Try Me",
+    "founder": null,
+    "current_lord": 826,
+    "heir": 299,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 304,
+    "name": "House Pommingham",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "A red pomegranate on white, a double tressure red",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 305,
+    "name": "House Poole",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "White, a roundel azure, a tressure cendr\u00e9e",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 306,
+    "name": "House Prester of Feastfires",
+    "places": [
+      "Feastfires"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A red ox, on an ermine field(Ermine, an ox passant gules)",
+    "words": "Tireless",
+    "founder": null,
+    "current_lord": 403,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 307,
+    "name": "House Pryor of Pebble",
+    "places": [
+      "Pebble"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A partial eclipse, black moon over yellow sun, on a dusty pink field(Carnation, a sun-in-splendour or surmounted by a moon in her complement sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 308,
+    "name": "House Pyle",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "A grey iron greathelm on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 309,
+    "name": "House Pyne",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 310,
+    "name": "House Qoherys of Harrenhal",
+    "places": [
+      "Harrenhal"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A flaming red and yellow saltire between four white skulls, on a black field(Sable, a saltire rayonn\u00e9 gules, tipped or, between four skulls argent)",
+    "words": "",
+    "founder": 841,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 311,
+    "name": "House Qorgyle of Sandstone",
+    "places": [
+      "Sandstone"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Gules, three scorpions sable.",
+    "words": "",
+    "founder": null,
+    "current_lord": 845,
+    "heir": 441,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 312,
+    "name": "House Quagg",
+    "places": [],
+    "region": "The Neck",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 313,
+    "name": "House Rambton",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Gules, a ram's head cabossed argent attired or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 314,
+    "name": "House Redbeard",
+    "places": [],
+    "region": "Beyond the Wall",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1423,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 315,
+    "name": "House Redding",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Gules, a flagon Or within a bordure chequy Or and argent",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 316,
+    "name": "House Redfort of Redfort",
+    "places": [
+      "Redfort"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A red castle, on a white field, within a red embattled border(Argent, a castle within a bordure embattled gules)",
+    "words": "As Strong as Stone",
+    "founder": null,
+    "current_lord": 499,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 317,
+    "name": "House Redwyne of the Arbor",
+    "places": [
+      "The Arbor"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Azure, a grape cluster proper",
+    "words": "",
+    "founder": 425,
+    "current_lord": 815,
+    "heir": 498,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 318,
+    "name": "House Reed of Greywater Watch",
+    "places": [
+      "Greywater Watch"
+    ],
+    "region": "The Neck",
+    "coat_of_arms": "Vert, a lizard-lion sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 506,
+    "heir": 571,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 319,
+    "name": "House Reyne of Castamere",
+    "places": [
+      "Castamere"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A red lion rampant regardant with a forked tail, with gold teeth and claws, on a silver field(Argent, a lion rampant regardant queue-fourch\u00e9 gules, armed and langued or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 320,
+    "name": "House Rhysling",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "An oaken door banded with iron, in a grey stone doorway, on black masonry",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 321,
+    "name": "House Risley",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "A black knight on a black rearing horse on white, bearing a golden lance and a white shield, upon which is seen the above in miniature",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 322,
+    "name": "House Rogers of Amberly",
+    "places": [
+      "Amberly"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Nine silver unicorns around a silver maze, on a black field(Sable, a maze surrounded by an orle of nine unicorns rampant argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 323,
+    "name": "House Rollingford",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Six roundels fountain, 3-2-1, on grey",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 324,
+    "name": "House Roote of Lord Harroway's Town",
+    "places": [
+      "Lord Harroway's Town"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A brown double-headed horse on a field of wavy green and green(Wavy vert and vert, a two-headed horse tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 325,
+    "name": "House Rosby of Rosby",
+    "places": [
+      "Rosby"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Ermine, three chevronels gules",
+    "words": "",
+    "founder": null,
+    "current_lord": 458,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 326,
+    "name": "House Rowan of Goldengrove",
+    "places": [
+      "Goldengrove"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, a tree eradicated",
+    "words": "",
+    "founder": 1908,
+    "current_lord": 731,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 327,
+    "name": "House Roxton of the Ring",
+    "places": [
+      "The Ring"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Bleu celeste, per saltire a chain of rings Or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": [
+      "Orphan-Maker"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "House Royce of Runestone",
+    "places": [
+      "Runestone"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Black iron studs on a bronze field, bordered with runes(Tenn\u00e9 pellet\u00e9e, an orle of ancient runes sable)",
+    "words": "We Remember",
+    "founder": null,
+    "current_lord": 1131,
+    "heir": 116,
+    "ancestral_weapons": [
+      "Lamentation"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "House Royce of the Gates of the Moon",
+    "places": [
+      "Gates of the Moon"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A black portcullis over a white crescent moon, on a purple field, bordered with runes on bronze(Purpure, a moon increscent argent surmounted by a portcullis sable, all within a bordure tenn\u00e9 charged with ancient runes of the third)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1755,
+    "heir": 67,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 330,
+    "name": "House Ruthermont",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "Five black starfish on a gold pale, on a field of pean(Pean, on a pale or five starfish sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 331,
+    "name": "House Ruttiger",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "An orange engrailed bend, on a black field(Sable, a bend tenn\u00e9 engrailed)",
+    "words": "",
+    "founder": null,
+    "current_lord": 857,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 332,
+    "name": "House Ryder of the Rills",
+    "places": [
+      "Rills"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 333,
+    "name": "House Ryger of Willow Wood",
+    "places": [
+      "Willow Wood"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A green weeping willow, on a white field(Argent, a willow-tree vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 334,
+    "name": "House Rykker of Duskendale",
+    "places": [
+      "The Dun Fort"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Azure, a cross saltire argent charged with two crossed warhammers sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 861,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 335,
+    "name": "House Ryswell of the Rills",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Bronze, a horse's head sable orbed and maned gules within a bordure engrailed sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 915,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 336,
+    "name": "House Saltcliffe of Saltcliffe",
+    "places": [
+      "Saltcliffe"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Argent, a serpent nine-headed sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 323,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 337,
+    "name": "House Santagar of Spottswood",
+    "places": [
+      "Spottswood"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Per bend sinister azure and argent, a leopard rampant Or spotted sable bearing an axe of the third",
+    "words": "",
+    "founder": null,
+    "current_lord": 1002,
+    "heir": 999,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 338,
+    "name": "House Sarsfield of Sarsfield",
+    "places": [
+      "Sarsfield"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A green arrow on a white bend, on a green field(Vert, on a bend argent an arrow of the field, point to dexter chief)",
+    "words": "True to the Mark",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 339,
+    "name": "House Sarwyck",
+    "places": [
+      "Riverspring"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A broken silver sword on red",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 340,
+    "name": "House Seaworth of Cape Wrath",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black ship on a pale grey field, with a white onion on its sails(Cendr\u00e9e, a ship sable, its sail charged with an onion argent)",
+    "words": "",
+    "founder": 1319,
+    "current_lord": 1319,
+    "heir": 308,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 341,
+    "name": "House Selmy of Harvest Hall",
+    "places": [
+      "Harvest Hall"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Three stalks of yellow wheat, on a brown field(Tenn\u00e9, three stalks of wheat or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 139,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 342,
+    "name": "House Serrett of Silverhill",
+    "places": [
+      "Silverhill"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A peacock in his pride, on a cream field(Argent, a peacock-in-his-pride proper)",
+    "words": "I Have No Rival",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 343,
+    "name": "House Serry of Southshield",
+    "places": [
+      "Southshield"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Argent, an escutcheon gules charged with a rose of the first all within a bordure embattled of the second",
+    "words": "",
+    "founder": null,
+    "current_lord": 798,
+    "heir": 1007,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 344,
+    "name": "House Sharp",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 345,
+    "name": "House Shawney",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Per fesse, a divided blue, red, green field above, a white catfish on a black field below(Per fesse, the first tierced in pale azure, gules and vert, the second sable, a catfish argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 346,
+    "name": "House Shell",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 347,
+    "name": "House Shell",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 348,
+    "name": "House Shepherd",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 349,
+    "name": "House Shermer of Smithyton",
+    "places": [
+      "Smithyton"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "a field of copper nails on blue, a copper border rayonne",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 350,
+    "name": "House Shett of Gull Tower",
+    "places": [
+      "Gull Tower"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Three golden wings, bendwise, on a checkered white and black field(Chequy argent and sable, in bend three dexter wings elevated bendwise or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 287,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 351,
+    "name": "House Shett of Gulltown",
+    "places": [
+      "Gulltown"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Nine white seagulls on a field of brown(Tenn\u00e9, nine seagulls argent, 3, 3, 2, 1)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 352,
+    "name": "House Slate of Blackpool",
+    "places": [
+      "Blackpool"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Pale grey, a double tressure white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 353,
+    "name": "House Sloane",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Per pale, white stars strewn on indigo, an orange sun on yellow",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 354,
+    "name": "House Slynt of Harrenhal",
+    "places": [
+      "None, formerly Harrenhal"
+    ],
+    "region": "None",
+    "coat_of_arms": "A bloody gold spear, on a black field, within a checkered gold and black border(Sable, a spear or, tipped gules, within a bordure chequy of the field and of the second)",
+    "words": "",
+    "founder": 533,
+    "current_lord": 761,
+    "heir": 599,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 355,
+    "name": "House Smallwood of Acorn Hall",
+    "places": [
+      "Acorn Hall"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Six brown acorns, on a yellow field(Or, six acorns, 3, 2, 1, tenn\u00e9)",
+    "words": "From These Beginnings",
+    "founder": null,
+    "current_lord": 1020,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 356,
+    "name": "House Sparr of Great Wyk",
+    "places": [
+      "Great Wyk"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "an oak saltire on blue",
+    "words": "",
+    "founder": null,
+    "current_lord": 1015,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 357,
+    "name": "House Spicer of Castamere",
+    "places": [
+      "Castamere"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "Three black pepperpots on a saffron bend, across a field of green and silver stripes (Paly vert and argent, three pepperpots sable on a bend tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": 927,
+    "heir": 997,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 358,
+    "name": "House Stackhouse",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 359,
+    "name": "House Stackspear",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Two crossed black spears, on a checkered silver and gold field(Chequy argent and or, two spears in saltire sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 965,
+    "heir": 991,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 360,
+    "name": "House Staedmon of Broad Arch",
+    "places": [
+      "Broad Arch"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black dagger piercing a red heart on a white de sang field, within an undulating red border(Argent goutt\u00e9-de-sang, a heart gules transfixed by a dagger sable, all within a bordure wavy of the second)",
+    "words": "",
+    "founder": null,
+    "current_lord": 71,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 361,
+    "name": "House Stane of Driftwood Hall",
+    "places": [
+      "Driftwood Hall"
+    ],
+    "region": "The North",
+    "coat_of_arms": "A driftwood tree, bare and brown, on pale green",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 362,
+    "name": "House Stark of Winterfell",
+    "places": [
+      "Scattered (formerly Winterfell)"
+    ],
+    "region": "The North",
+    "coat_of_arms": "A running grey direwolf, on an ice-white field",
+    "words": "Winter is Coming",
+    "founder": 209,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "House Staunton of Rook's Rest",
+    "places": [
+      "Rook's Rest"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "two black wings upon a white fess on checkered black and grey",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 364,
+    "name": "House Stokeworth of Stokeworth",
+    "places": [
+      "Stokeworth"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Vert, a lamb couchant argent holding a goblet or",
+    "words": "Proud to be Faithful",
+    "founder": null,
+    "current_lord": 638,
+    "heir": 2043,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 365,
+    "name": "House Stonehouse of Old Wyk",
+    "places": [
+      "Old Wyk"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "a black brazier on a grey masonry field",
+    "words": "",
+    "founder": null,
+    "current_lord": 1016,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 366,
+    "name": "House Stonetree of Harlaw",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "A bare stone tree, grey on black",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 367,
+    "name": "House Stout of Goldgrass",
+    "places": [
+      "Goldgrass"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Chevronny tenn\u00e9 and Or",
+    "words": "",
+    "founder": null,
+    "current_lord": 483,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 368,
+    "name": "House Strickland",
+    "places": [],
+    "region": "",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 480,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 369,
+    "name": "House Strong of Harrenhal",
+    "places": [
+      "Harrenhal"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A tripartite pale, blue, red, and green, on a white field(Argent, a pale tierced per pale azure, gules, and vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 370,
+    "name": "House Sunderland of the Three Sisters",
+    "places": [
+      "Sisterton"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Three women's heads, white with black hair, on a barry wavy blue and green field(Barry wavy azure and vert, three women's heads argents, crined sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1042,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 371,
+    "name": "House Sunderly of Saltcliffe",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "A drowned man, pink and pale, floating upright in a blue-green sea",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 372,
+    "name": "House Sunglass of Sweetport Sound",
+    "places": [
+      "Sweetport Sound"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Argent, seven mullets of seven points or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 373,
+    "name": "House Swann of Stonehelm",
+    "places": [
+      "Stonehelm"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Battling swans black and white, beaks and feet golden, on per pale white and black field(Per pale argent and sable, two swans combatant counterchanged, beaked and membered or)",
+    "words": "",
+    "founder": null,
+    "current_lord": 442,
+    "heir": 322,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 374,
+    "name": "House Swyft of Cornfield",
+    "places": [
+      "Cornfield"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A blue bantam rooster, on a yellow field(Or, a cock close azure)",
+    "words": "Awake! Awake!",
+    "founder": null,
+    "current_lord": 487,
+    "heir": 992,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 375,
+    "name": "House Swygert",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A white scroll with gold knobs, on a purple field within a white tressure(Purpure a scroll argent, knobbed or, within a tressure of the second)",
+    "words": "Truth Conquers",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 376,
+    "name": "House Tallhart of Torrhen's Square",
+    "places": [
+      "Torrhen's Square"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Tenny, three sentinel trees vert",
+    "words": "Proud and Free",
+    "founder": null,
+    "current_lord": 337,
+    "heir": 214,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 377,
+    "name": "House Tarbeck of Tarbeck Hall",
+    "places": [
+      "Tarbeck Hall"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "A seven-pointed star, parts silver parts blue, on a silver and blue field(Gyronny argent and azure, a star of seven points counterchanged)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 378,
+    "name": "House Targaryen of King's Landing",
+    "places": [
+      "Red Keep (formerly)",
+      "Summerhall (formerly)"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "Sable, a dragon thrice-headed gules",
+    "words": "Fire and Blood",
+    "founder": null,
+    "current_lord": 1303,
+    "heir": null,
+    "ancestral_weapons": [
+      "Blackfyre",
+      "Dark Sister"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "House Tarly of Horn Hill",
+    "places": [
+      "Horn Hill"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Vert, a huntsman striding to dexter proper garbed gules",
+    "words": "First in Battle",
+    "founder": null,
+    "current_lord": 850,
+    "heir": 313,
+    "ancestral_weapons": [
+      "Heartsbane"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "House Tarth of Evenfall Hall",
+    "places": [
+      "Evenfall Hall"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "Quartered, yellow sun on a rose-coloured field and white crescents on a blue field(Quarterly, first and fourth, carnation, a sun-in-splendour or, second and third, azure, a moon increscent argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 966,
+    "heir": 216,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 381,
+    "name": "House Tawney of Orkmont",
+    "places": [
+      "Orkmont"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "A scourge of nettles, red and black, on white",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 382,
+    "name": "House Teague",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "A golden trident upright between two golden flanches, on a black field(Sable, between two flaunches a trident erect or)",
+    "words": "",
+    "founder": 1032,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 383,
+    "name": "House Templeton",
+    "places": [
+      "Ninestars"
+    ],
+    "region": "",
+    "coat_of_arms": "Nine stars, one of seven points and eight of six points, on a gold saltire, on a black field(Sable, on a saltire or, nine mullets of the field, that in fesse-point of seven points, all others of six points)",
+    "words": "",
+    "founder": null,
+    "current_lord": 1005,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 384,
+    "name": "House Terrick",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Per saltire purple and gold, four hawks' heads countercharged(Per saltire purpure and or, four hawks' heads counterchanged)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 385,
+    "name": "House Thenn",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Argent, a sun in splendour gules",
+    "words": "",
+    "founder": null,
+    "current_lord": 980,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 386,
+    "name": "House Thorne",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "Gules, a flail argent within an bordure rayonne sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 387,
+    "name": "House Toland of Ghost Hill",
+    "places": [
+      "Ghost Hill"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Or, a dragon biting its tail vert",
+    "words": "",
+    "founder": null,
+    "current_lord": 781,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 388,
+    "name": "House Tollett of the Grey Glen",
+    "places": [
+      "The Grey Glen"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Pily grey and black(Pily cendr\u00e9e and sable)",
+    "words": "When All is Darkest",
+    "founder": null,
+    "current_lord": 1064,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 389,
+    "name": "House Torrent of Littlesister",
+    "places": [
+      "Littlesister"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": 1150,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 390,
+    "name": "House Towers",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 391,
+    "name": "House Towers of Harrenhal",
+    "places": [
+      "Harrenhal"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Five black towers within a red and black double tressure, on a white field(Argent, five towers sable within a double-tressure, the outer gules and the inner of the second)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 392,
+    "name": "House Toyne",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black winged heart, on a gold field, within a black embattled borderOr, a winged heart within a bordure embattled sable)",
+    "words": "Fly High, Fly Far",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 393,
+    "name": "House Trant of Gallowsgrey",
+    "places": [
+      "Gallowsgrey"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A black hanged man, on a blue field(Azure, a hanged man sable)",
+    "words": "So End Our Foes",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 394,
+    "name": "House Tudbury",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "A brown tortoise within a yellow lozenge, on a green field(Vert, on a lozenge or a tortoise tergiant tenn\u00e9)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 395,
+    "name": "House Tully of Riverrun",
+    "places": [
+      "Scattered (formerly Riverrun)"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "A leaping silver trout on a field of blue and mud red(Paly wavy azure and gules, a trout embowed argent)",
+    "words": "Family, Duty, Honor",
+    "founder": null,
+    "current_lord": 346,
+    "heir": 894,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 396,
+    "name": "House Turnberry",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Nine strawberries on a white saltire, on a field of green and red vairy in point(Vairy-in-point vert and gules, on a saltire argent nine strawberries of the second)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 397,
+    "name": "House Tyrell of Brightwater Keep",
+    "places": [
+      "Brightwater Keep (disputed by House Florent)"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": 401,
+    "current_lord": 401,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 398,
+    "name": "House Tyrell of Highgarden",
+    "places": [
+      "Highgarden"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Vert, a rose Or",
+    "words": "Growing Strong",
+    "founder": 75,
+    "current_lord": 691,
+    "heir": 1113,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 399,
+    "name": "House Uffering",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Paly tenn\u00e9 and cendr\u00e9e, upon a chief argent seven hands couped vert",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 400,
+    "name": "House Uller of Hellholt",
+    "places": [
+      "Hellholt"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "per fess rayonny Or and gules",
+    "words": "",
+    "founder": null,
+    "current_lord": 470,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 401,
+    "name": "House Umber of the Last Hearth",
+    "places": [
+      "The Last Hearth"
+    ],
+    "region": "The North",
+    "coat_of_arms": "Gules, a roaring giant proper with shattered chains argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 585,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 402,
+    "name": "House Upcliff",
+    "places": [
+      "Witch Isle"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A cresting sea-green wave, on a black field(Sable, a wave cresting vert)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 403,
+    "name": "House Vaith of the Red Dunes",
+    "places": [
+      "Vaith"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Tenny, on a pile Or three leopards statant sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 277,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 404,
+    "name": "House Vance of Atranta",
+    "places": [
+      "Atranta"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Quartered, a green dragon on a white field and a white tower on a black field(Quarterly, first and fourth, argent, a dragon vert, second and third, sable, a tower argent)",
+    "words": "",
+    "founder": 1169,
+    "current_lord": 780,
+    "heir": 929,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 405,
+    "name": "House Vance of Wayfarer's Rest",
+    "places": [
+      "Wayfarer's Rest"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Quartered, a black dragon on a white field and two golden eyes in a golden ring on a black field(Quarterly, first and fourth, argent, a dragon sable, second and third, sable, a pair of eyes within an annulet or)",
+    "words": "",
+    "founder": 1169,
+    "current_lord": 604,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 406,
+    "name": "House Varner",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Ermines, a weasel argent",
+    "words": "",
+    "founder": null,
+    "current_lord": 993,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 407,
+    "name": "House Velaryon of Driftmark",
+    "places": [
+      "High Tide or Driftmark"
+    ],
+    "region": "The Crownlands",
+    "coat_of_arms": "seahorse rampant argent, on sea green",
+    "words": "The Old, the True, the Brave",
+    "founder": null,
+    "current_lord": 757,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 408,
+    "name": "House Vikary",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Quarterly: a red boar's head on a white field; beneath a gold bend sinister, a silver lion rampant regardant with a forked tail, with gold teeth and claws, on a red field.",
+    "words": "",
+    "founder": null,
+    "current_lord": 676,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 409,
+    "name": "House Volmark",
+    "places": [
+      "Volmark"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "Cendr\u00e9e, a leviathan sable",
+    "words": "",
+    "founder": null,
+    "current_lord": 720,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 410,
+    "name": "House Vypren",
+    "places": [],
+    "region": "",
+    "coat_of_arms": "A black toad on white lily pad, on a green field(Vert, a toad sable atop a lilypad argent)",
+    "words": "",
+    "founder": null,
+    "current_lord": 660,
+    "heir": 288,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 411,
+    "name": "House Vyrwel of Darkdell",
+    "places": [
+      "Darkdell"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "a silver wyvern within a red double tressure on sable",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 412,
+    "name": "House Wade",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 413,
+    "name": "House Wagstaff",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Five yellow mascles, on a green field(Vert, five mascles in fess or)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 414,
+    "name": "House Waterman",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Argent, two oars saltirewise tenny between as many flaunces azure",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 415,
+    "name": "House Waxley of Wickenden",
+    "places": [
+      "Wickenden"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "Three candles, white with red flames, within silver candle holders, on a grey field within a black border(Cendr\u00e9e, three candles in holders argent, flamed gules, within a bordure sable)",
+    "words": "Light in Darkness",
+    "founder": null,
+    "current_lord": 345,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 416,
+    "name": "House Wayn",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Four wheels counterchanged on a quartered blue and white field(Quarterly azure and argent, four wheels counterchanged)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 417,
+    "name": "House Waynwood of Ironoaks",
+    "places": [
+      "Ironoaks"
+    ],
+    "region": "The Vale",
+    "coat_of_arms": "A broken black wheel, on a green field(Vert, a wheel broken sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 125,
+    "heir": 1727,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 418,
+    "name": "House Weaver",
+    "places": [],
+    "region": "Iron Islands",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 419,
+    "name": "House Webber of Coldmoat",
+    "places": [
+      "formerly Coldmoat"
+    ],
+    "region": "The Reach",
+    "coat_of_arms": "Sable, a cobweb argent thereon a spider gules",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 420,
+    "name": "House Wells",
+    "places": [],
+    "region": "Dorne",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 421,
+    "name": "House Wells",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Per fess cendr\u00e9e and lozengy argent and vert, in chief five pellets",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 422,
+    "name": "House Wendwater",
+    "places": [],
+    "region": "The Crownlands",
+    "coat_of_arms": "A green engrailed pall, inverted on white, dividing three trees, green, red and bare",
+    "words": "For All Seasons",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 423,
+    "name": "House Wensington",
+    "places": [],
+    "region": "The Stormlands",
+    "coat_of_arms": "Two golden trumpets crossed on a blue field, beneath a gold chief with three black stags(Azure, two trumpets saltirewise or, on a chief of the second three stags salient sable)",
+    "words": "Sound The Charge",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 424,
+    "name": "House Westbrook",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Two green bars gemmel on gold",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 425,
+    "name": "House Westerling of the Crag",
+    "places": [
+      "The Crag"
+    ],
+    "region": "The Westerlands",
+    "coat_of_arms": "Six white shells, on a sand-coloured field(Or, six escallops argent)",
+    "words": "Honor, Not Honors",
+    "founder": null,
+    "current_lord": 413,
+    "heir": 923,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 426,
+    "name": "House Westford",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A black dog on blue",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 427,
+    "name": "House Whent of Harrenhal",
+    "places": [
+      "Harrenhal (stripped)"
+    ],
+    "region": "The Riverlands",
+    "coat_of_arms": "Nine black bats, on a yellow field(Or, nine bats, 4, 3, 2, displayed sable)",
+    "words": "",
+    "founder": null,
+    "current_lord": 972,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 428,
+    "name": "House Whitehill",
+    "places": [
+      "Highpoint (Telltale)"
+    ],
+    "region": "The North",
+    "coat_of_arms": "A white pile inverted on indigo, an arch of 4-pointed stars above",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 429,
+    "name": "House Willum",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "three silver longswords crossed on black beneath a dragonbone skeleton on a white chief",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 430,
+    "name": "House Wode",
+    "places": [],
+    "region": "The Riverlands",
+    "coat_of_arms": "Three white hedgehogs, on a yellow field(Or, three hedgehogs argent)",
+    "words": "Touch Me Not",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 431,
+    "name": "House Woodfoot of Bear Island",
+    "places": [
+      "Bear Island"
+    ],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 432,
+    "name": "House Woods",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 433,
+    "name": "House Woodwright",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "A red pall on a field of oak",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 434,
+    "name": "House Woolfield",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Three woolsacks, white on purple, a white border",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 435,
+    "name": "House Wull",
+    "places": [],
+    "region": "The North",
+    "coat_of_arms": "Azure, three wooden buckets tenn\u00e9, a bordure chequy cendr\u00e9e and white",
+    "words": "",
+    "founder": null,
+    "current_lord": 512,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 436,
+    "name": "House Wydman",
+    "places": [],
+    "region": "The Vale",
+    "coat_of_arms": "Five splintered lances, 3, 2, striped blue and white with blue pennons, on a yellow field, beneath a white chief bearing a red castle, a green viper, a black broken wheel, a purple unicorn and a yellow lion.",
+    "words": "Right Conquers Might",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 437,
+    "name": "House Wyl of the Boneway",
+    "places": [
+      "Wyl"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "A black adder biting a heel on yellow",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 438,
+    "name": "House Wylde of Rain House",
+    "places": [
+      "Rain House"
+    ],
+    "region": "The Stormlands",
+    "coat_of_arms": "A blue-green maelstrom, on a gold field(Or, a maelstrom azure)",
+    "words": "",
+    "founder": null,
+    "current_lord": 229,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 439,
+    "name": "House Wynch of Iron Holt",
+    "places": [
+      "Iron Holt"
+    ],
+    "region": "Iron Islands",
+    "coat_of_arms": "a bloody moon on purple",
+    "words": "",
+    "founder": null,
+    "current_lord": 1097,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 440,
+    "name": "House Wythers",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "a grey squirrel on white with red border",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 441,
+    "name": "House Yarwyck",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "Two bronze halberds crossed between four red diamonds, on a white field(Argent, two halberds saltirewise tenn\u00e9, hafted sable, between four lozenges gules)",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 442,
+    "name": "House Yelshire",
+    "places": [],
+    "region": "The Reach",
+    "coat_of_arms": "Barry vert and Or, on a chief sable a battering-ram proper headed Or",
+    "words": "",
+    "founder": null,
+    "current_lord": null,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 443,
+    "name": "House Yew",
+    "places": [],
+    "region": "The Westerlands",
+    "coat_of_arms": "A golden longbow between two crimson flaunches, on a white field(Argent, a longbow or between two flaunches gules)",
+    "words": "",
+    "founder": 65,
+    "current_lord": 707,
+    "heir": null,
+    "ancestral_weapons": []
+  },
+  {
+    "id": 444,
+    "name": "House Yronwood of Yronwood",
+    "places": [
+      "Yronwood"
+    ],
+    "region": "Dorne",
+    "coat_of_arms": "Or, a portcullis sable",
+    "words": "We Guard the Way",
+    "founder": null,
+    "current_lord": 117,
+    "heir": 452,
+    "ancestral_weapons": []
+  }
+]
