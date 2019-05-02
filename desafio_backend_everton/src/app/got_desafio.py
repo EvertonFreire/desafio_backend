@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flaskext.mysql import MySQL
-import  query_sql
+import query_sql
 import time, json
 
 #
@@ -26,11 +26,11 @@ def search_id(information):
 @app.route('/search/', methods=['GET'])
 def search():
     if request.method == 'GET':
-            return get_values()
+        return get_values()
     else:
         return "Error Method not allowed!!"
 
-@app.route('/book/', methods=['POST', 'DELETE', 'PUT'])
+@app.route('/book/', methods=['POST', 'DELETE', 'PUT','GET'])
 def book():
     if request.method == 'POST':
         book_json = request.data
@@ -47,9 +47,12 @@ def book():
                 book = json.loads(book_json)
                 return update_book(book)
             else: 
-                return "Error Method not allowed!!"
+                if request.method == 'GET':
+                    return list_book()
+                else:
+                    return "Error Method not allowed!!"
 
-@app.route('/house/', methods=['POST', 'DELETE', 'PUT'])
+@app.route('/house/', methods=['POST', 'DELETE', 'PUT', 'GET'])
 def house():
     if request.method == 'POST':
         house_json = request.data
@@ -65,10 +68,13 @@ def house():
                 house_json = request.data
                 house = json.loads(house_json)
                 return update_house(house)
-            else:
-                return "Error Method not allowed!!"
+            else: 
+                if request.method == 'GET':
+                    return list_house()
+                else:
+                    return "Error Method not allowed!!"
 
-@app.route('/character/', methods=['POST', 'DELETE','PUT'])
+@app.route('/character/', methods=['POST', 'DELETE','PUT', 'GET'])
 def character():
     if request.method == 'POST':
         character_json = request.data
@@ -84,37 +90,38 @@ def character():
                 character_json = request.data
                 character = json.loads(character_json)
                 return update_character(character)
-            else:
-                return "Error Method not allowed!"
+            else: 
+                if request.method == 'GET':
+                    return list_character()
+                else:
+                    return "Error Method not allowed!!"
 
 # Classes Get
 def get_value(information):
-    db_connect()
+
     a = mysqlflask.connect().cursor()
-    a.execute('''select * from ''' + db_name + '''.houses where name = "''' + information + '''";''')
+    a.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.houses where name = "''' + information + '''";''')
     b = mysqlflask.connect().cursor()
-    b.execute('''select * from ''' + db_name + '''.characters where name = "''' + information + '''";''')
+    b.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.characters where name = "''' + information + '''";''')
     c = mysqlflask.connect().cursor()
-    c.execute('''select * from ''' + db_name + '''.books where name = "''' + information + '''";''')        
+    c.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.books where name = "''' + information + '''";''')        
     r = [dict((a.description[i][0], value)
             for i, value in enumerate(row)) for row in a.fetchall()]
     s = [dict((b.description[i][0], value)
             for i, value in enumerate(row)) for row in b.fetchall()]
     t = [dict((c.description[i][0], value)
             for i, value in enumerate(row)) for row in c.fetchall()]
-    print (t)
 
     return jsonify({'Valores em Json' : r + s + t})
 
 def get_values():
-    db_connect()
+    
     a = mysqlflask.connect().cursor()
-    a.execute('''select * from ''' + db_name + '''.houses order by name;''')
+    a.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.houses;''')
     b = mysqlflask.connect().cursor()
-    b.execute('''select * from ''' + db_name + '''.characters order by name;''')
+    b.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.characters;''')
     c = mysqlflask.connect().cursor()
-    c.execute('''select * from ''' + db_name + '''.books order by name;''')
-        
+    c.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.books;''')        
     r = [dict((a.description[i][0], value)
             for i, value in enumerate(row)) for row in a.fetchall()]
     s = [dict((b.description[i][0], value)
@@ -122,10 +129,39 @@ def get_values():
     t = [dict((c.description[i][0], value)
             for i, value in enumerate(row)) for row in c.fetchall()]
 
-    return jsonify({'Valores em Json' : r + s + t})
+    return jsonify({'Valores em Json:' : r +s +t})
+
+def list_book():
+    
+    book = mysqlflask.connect().cursor()
+    book.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.books;''')        
+    
+    book_result = [dict((book.description[i][0], value)
+            for i, value in enumerate(row)) for row in book.fetchall()]
+
+    return jsonify({'Valores em Json:' : book_result})
+
+def list_house():
+    
+    house = mysqlflask.connect().cursor()
+    house.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.houses;''')        
+    
+    house_result = [dict((house.description[i][0], value)
+            for i, value in enumerate(row)) for row in house.fetchall()]
+
+    return jsonify({'Valores em Json:' : house_result})
+
+def list_character():
+    
+    character = mysqlflask.connect().cursor()
+    character.execute('''select * from ''' + app.config['MYSQL_DATABASE_DB'] + '''.characters;''')        
+    
+    character_result = [dict((character.description[i][0], value)
+            for i, value in enumerate(row)) for row in character.fetchall()]
+
+    return jsonify({'Valores em Json:' : character_result})
 
 # Classes Post
-
 def post_book(book):
     query_sql.insert_book(book)
     return '''Livro cadastrado.'''
@@ -164,6 +200,8 @@ def delete_house(house):
 def delete_character(character):
     query_sql.remove_character(character)
     return '''Personagem removido.'''
+
+
 
 # Run 
 if __name__ == '__main__':
