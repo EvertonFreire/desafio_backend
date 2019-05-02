@@ -1,31 +1,36 @@
-# Desafio backend iTFLEX Tecnologia
+# How to
 
-O desafio é criar uma API de consulta de livros, casas e personagens do
-show Game of Thrones.
+Esta é a Api construída por mim para gerenciar os dados que estão no banco de dados.
 
-A API deve ter disponibilizar as operações de consulta, cadastro e
-remoção de itens, e também deve permitir a consulta textual dos itens.
+Dependências necessárias:
 
-Requisitos técnicos:
+* Python 2.7
+* Pip (lastest)
+* Mariadb
 
-* Desenvolver em Python, NodeJS, PHP ou Ruby
-* API deve seguir os princípios REST
-* Salvar as informações necessárias em um dos bancos de dados relacionais abaixo:
-  * Sqlite
-  * PostgreSQL
-  * MySQL
-* Documentar como rodar o projeto
+Dependências do Flask (Instalação via PIP):
 
-Requisitos funcionais:
+* Flask
+* Flask-MySQL
+* jsonify
+* mysql-connector-python
+* PyMySQL
 
-* Dados das APIs no formato JSON;
-* Operações CRUD de livros, casas e personagens;
-* API de consulta de todos os itens por nome (retornar campo com tipo do item);
-* Script/Código para cadastrar os dados por meio da API (usar os dados de [./data](./data)).
+# Instalação
 
-Para ganhar alguns pontos extras, podem ser implementadas as funcionalidades abaixo:
+Instalar os pacotes informados acima, logo após pode ser realizada a configuração do banco de dados.
 
-* Paginação das APIs de listagem;
-* Autenticação por tokens assinados (JWT ou similar);
-* Permissões de consulta por tipo de item;
-* Pesquisa full text search, com score de itens encontrados.
+Ao configurar o banco de dados deve ser inseridas as configurações nos dois arquivos de configuração, um para o Flask e outro para a comunicação com o banco de dados. 
+
+Inserir as configurações necessárias para o banco de dados realizadas nos arquivos:
+
+* src/app/got_desafio.py
+* src/app/connect_mysl.py
+
+Devido a um bug onde o conector do mysql não conseguia escrever nas tabelas foi necessário criar dois arquivos de configuração.
+
+# Run
+
+Logo após configurar os dados do banco de dados basta iniciar a api com o comando:
+
+* python src/app/got_desafio.py
