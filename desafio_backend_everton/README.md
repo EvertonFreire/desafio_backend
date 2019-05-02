@@ -6,7 +6,7 @@ Dependências necessárias:
 
 * Python 2.7
 * Pip (lastest)
-* Mariadb
+* Mariadb-server
 
 Dependências do Flask (Instalação via PIP):
 
