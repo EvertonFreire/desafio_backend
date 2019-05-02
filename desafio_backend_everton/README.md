@@ -5,7 +5,7 @@ Esta é a Api construída por mim para gerenciar os dados que estão no banco de
 Dependências necessárias:
 
 * Python 2.7
-* Pip (lastest)
+* Python-pip (lastest)
 * Mariadb-server
 
 Dependências do Flask (Instalação via PIP):
@@ -28,6 +28,8 @@ Inserir as configurações necessárias para o banco de dados realizadas nos arq
 * src/app/connect_mysl.py
 
 Devido a um bug onde o conector do mysql não conseguia escrever nas tabelas foi necessário criar dois arquivos de configuração.
+
+Caso queira pode utilizar o script em sql que está na pasta para criar o banco de dados e as tabelas;
 
 # Run
 
