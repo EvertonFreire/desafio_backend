@@ -37,3 +37,21 @@ Caso queira pode utilizar o script em sql que está na pasta para criar o banco 
 Logo após configurar os dados do banco de dados basta iniciar a api com o comando:
 
 * python src/app/got_desafio.py
+
+
+# Dados da Api
+
+Primeiramente no quesito de inserção da dados o utilizador da mesma API pode inserir os dados no formato json através dos métodos REST, a saber, para este caso utilizariamos o método POST. Todos os outros métodos estão seguindo o mesmo príncipio, ao acessarmos o endereço $IP:PORT/book/ com o método GET vamos receber todos os dados de livros cadastrados no banco de dados.
+
+Para teste, pode ser aplicado os dados nos seguintes endereços:
+
+* Livros - $IP:PORT/book
+* Casas  - $IP:PORT/house
+* Personagens - $IP:PORT/character
+
+Já quanto às buscas por tudo o que está cadastrado no banco, podemos buscar exclusivamente com o método GET nos endereços:
+
+* Busca total - $IP:PORT/search
+* Busca pelo campo nome - $IP:PORT/search/id/$nome%20procurado
+
+As buscas todas geram um retorno em formato JSON.
