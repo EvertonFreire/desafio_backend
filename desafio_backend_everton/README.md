@@ -15,7 +15,7 @@ Dependências do Flask (Instalação via PIP):
 * jsonify
 * mysql-python
 * mysql-connector
-* PyMySQL
+
 
 # Instalação
 
