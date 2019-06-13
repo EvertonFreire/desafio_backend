@@ -1,16 +1,21 @@
-from flask import Flask, jsonify, request
-from flaskext.mysql import MySQL
-import query_sql
-import time, json
+import json
+
+from flask import Flask, request, jsonify
+from flask_mysqldb import MySQL
+
+from .query_sql import *
 
 #
 app = Flask(__name__)
 mysqlflask = MySQL()
 app.config['MYSQL_DATABASE_USER'] = 'root'
-app.config['MYSQL_DATABASE_PASSWORD'] = ''
-app.config['MYSQL_DATABASE_DB'] = 'GOT'
-app.config['MYSQL_DATABASE_HOST'] = '127.0.0.1'
+app.config['MYSQL_DATABASE_PASSWORD'] = 'responsavel'
+app.config['MYSQL_DATABASE_DB'] = 'got'
+app.config['MYSQL_DATABASE_HOST'] = '172.17.0.2'
 mysqlflask.init_app(app)
+
+use_docker = False
+
 
 # Classes App Route
 @app.route('/search/id/<path:information>', methods=['GET'])
@@ -202,7 +207,33 @@ def delete_character(character):
     return '''Personagem removido.'''
 
 
+def create_db():
+    use_docker = True
+    if use_docker == True:
+        import os
+        file = open('/usr/local/projeto/desafio_backend/desafio_backend_everton/src/app/docker.sh')
+        bash = "".join(file.readlines())
+        os.system(bash)
+        file = open('/usr/local/projeto/desafio_backend/desafio_backend_everton/src/app/db_config.sql')
+        sql = "".join(file.readlines())
+        from desafio_backend_everton.src.app import connect_mysl
+        connect_mysl.db_connect()
+        query_sql.mysql()
+        cursor = query_sql.mysql()
+        cursor.cursor().execute(sql, multi=True)
+        query_sql.mysql().cmd_query_iter(query_sql.mysql().commit())
+    else:
+        file = open('/usr/local/projeto/desafio_backend/desafio_backend_everton/src/app/db_config.sql')
+        sql = "".join(file.readlines())
+        query_sql.mysql()
+        cursor = query_sql.mysql().cursor()
+        cursor.execute(sql, multi=True)
+        query_sql.mysql().cmd_query_iter(query_sql.mysql().commit())
 
 # Run 
 if __name__ == '__main__':
+    try:
+        create_db()
+    except Exception as e:
+        print(e)
     app.run()

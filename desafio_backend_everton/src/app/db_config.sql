@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS GOT;
-USE GOT;
+CREATE DATABASE IF NOT EXISTS got;
+USE got;
 
 CREATE TABLE IF NOT EXISTS characters (id int not null, name text not null, gender text, culture text, titles text, aliases text, born text, died text, father int, mother int, spouse int, children text, books text, primary key (id));
 

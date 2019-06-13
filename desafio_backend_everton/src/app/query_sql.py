@@ -3,10 +3,10 @@ try:
         import json as simplejson
 except ImportError:
         import simplejson
-from  connect_mysl import db_connect as mysql
 import time
-from flask import jsonify
-from urllib2 import quote
+
+from desafio_backend_everton.src.app.connect_mysl import db_connect as mysql
+
 
 def time_now():
     datetime = time.strftime(r"%Y-%m-%d ",time.localtime())
